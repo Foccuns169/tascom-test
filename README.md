@@ -1,5 +1,10 @@
 # projeto-tascom
 
+## Deployment link: 
+```
+https://todolist-tascom.netlify.app/
+```
+
 ## Project setup
 ```
 npm install
